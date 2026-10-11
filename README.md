@@ -12,5 +12,5 @@
                                              \__|                                     \______/
 ```
 
-Hello! My name is Alph and I am a programmer who likes working with math! Currently I am working on a calculator, as well as Dotfiles for my Hyprland setup. 
+Hello! I am Alp, I like to do math related things. Always looking to help contribute to cool projects!
 
